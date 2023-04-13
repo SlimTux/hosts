@@ -1,4 +1,4 @@
-**Take Note!**
+**Take Note!** [MyHostsFile](https://raw.githubusercontent.com/SlimTux/hosts/43d52586dfed7cbd078c2a135032950c59b9edbf/hosts)
 
 With the exception of issues and PRs regarding changes to
 `hosts/data/StevenBlack/hosts`, all other issues regarding the content of the
