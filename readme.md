@@ -6,13 +6,10 @@ produced hosts files should be made with the appropriate data source that
 contributed the content in question. The contact information for all of the data
 sources can be found in the `hosts/data/` directory.
 
----
-**uMatrix** 
+## Add the link bellow to your umatrix rule set.
++ ( moz-extension://7428ccf7-f299-42fe-bb1d-964dabaca37b/asset-viewer.html?url=https://raw.githubusercontent.com/SlimTux/hosts/43d52586dfed7cbd078c2a135032950c59b9edbf/hosts ) all of this in parentesis is the link.
 
-[uMatrix](moz-extension://7428ccf7-f299-42fe-bb1d-964dabaca37b/asset-viewer.html?url=https://raw.githubusercontent.com/SlimTux/hosts/43d52586dfed7cbd078c2a135032950c59b9edbf/hosts)
-
----
-
+[moz-extension://7428ccf7-f299-42fe-bb1d-964dabaca37b/asset-viewer.html?url=](https://raw.githubusercontent.com/SlimTux/hosts/43d52586dfed7cbd078c2a135032950c59b9edbf/hosts)
 ---
 
 ![Logo](https://raw.githubusercontent.com/StevenBlack/hosts/master/.github/logo.png)
