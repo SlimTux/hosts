@@ -7,7 +7,10 @@ contributed the content in question. The contact information for all of the data
 sources can be found in the `hosts/data/` directory.
 
 ---
-**uMatrix**  [uMatrix](moz-extension://7428ccf7-f299-42fe-bb1d-964dabaca37b/asset-viewer.html?url=https://raw.githubusercontent.com/SlimTux/hosts/43d52586dfed7cbd078c2a135032950c59b9edbf/hosts)
+**uMatrix** 
+
+[uMatrix](moz-extension://7428ccf7-f299-42fe-bb1d-964dabaca37b/asset-viewer.html?url=https://raw.githubusercontent.com/SlimTux/hosts/43d52586dfed7cbd078c2a135032950c59b9edbf/hosts)
+
 ---
 
 ---
